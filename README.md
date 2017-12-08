@@ -1,4 +1,4 @@
-# Courses
+# Notes
 Notes and Scripts
 
 This is more for me to have my resources in multiple locations in case something  
