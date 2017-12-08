@@ -1,0 +1,49 @@
+---
+title: "My first .Rmd"
+author: Me
+date: "February 22, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Taking a look at the summary statistics for the dataset, airquality.
+
+```{r}
+library(datasets)
+data(airquality)
+summary(airquality)
+```
+
+Now, we examine the *pair* plots.
+
+```{r}
+pairs(airquality)
+```
+
+Here's a multiple regression model of **ozone** on wind, solar radiation, and temperature.
+
+```{r}
+library(stats)
+fit <- lm(Ozone ~ Wind + Solar.R + Temp, data = airquality)
+summary(fit)
+```
+
+Here's an unordered list:
+
+* First element
+* second element
+
+Another using a different character
+
+- First element
+- Second element
+
+Ordered List:
+
+1. Stick of butter
+2. 9 cups of flour
+8. Showing wrong numbers get converted to correct numbers
+4. The End
