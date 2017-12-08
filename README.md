@@ -3,7 +3,7 @@ Notes and Scripts
 
 This is more for me to have my resources in multiple locations in case something  
 were to happen to my notebooks and scripts. My handwriting isn't near the level of  
-someone like Mara Avarick but it should be mostly legible (if you're old enough  
+someone like Mara Averick but it should be mostly legible (if you're old enough  
 to read cursive!).
 
 Scripts are from free online education sources with my comments so hopefully there  
