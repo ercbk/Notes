@@ -1,4 +1,4 @@
-# Choosing bt ARIMA, ETS, or STLf part qautre
+# Choosing bt ARIMA, ETS, or STLf part quatre
 
 ## From fpp ebook Ch 8 exercises
 ## Data: Quarterly retail trade index in the Euro area (17 countries)
